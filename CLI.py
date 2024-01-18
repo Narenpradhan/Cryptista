@@ -1,6 +1,5 @@
 from PyInquirer import prompt, style_from_dict, Token
 import sys
-#1952ff
 
 
 def run_program(choice):
